@@ -60,11 +60,75 @@ request(url, function(error, response, html) {
   res.send("yo did it")
 })
 
+});
+
+app.get('/jScrape', function(req, res) {
+  // console.log(req.query.name);
+  console.log("HIYA");
+  var url = 'https://sneakernews.com/air-jordan-release-dates/';
+
+request(url, function(error, response, html) {
+  if (!error) {
+    console.log("no error...");
+    var $ = cheerio.load(html);
+    var jordanShoes = [];
+    // var shoeDetails = [];
+
+    var jordanShoe = {
+      name: '',
+      relDate: '',
+      price: '',
+      imgUrl: ''
+    }
+
+    $('#sneaker_singlepost').children().each(function(i, elem) {
+            if ($(this).children().children().children().attr('src')) {
+              let imgUrl = $(this).children().children().children().attr('src');
+              jordanShoe['imgUrl'] = imgUrl;
+              if ($(this).children().hasClass('content-box')) {
+                let releaseDate = $(this).children('.content-box').children().children('.release-date').text();
+                let relDate = releaseDate.replace(/ /g, '').slice(2);
+                jordanShoe['relDate'] = relDate;
+                if ($(this).children('.content-box').children('h2')) {
+                  let jName = $(this).children('.content-box').children('h2').children().eq(0).text();
+                  jordanShoe['name'] = jName;
+
+                  let prizzle = $(this).children('.content-box').children('h2').siblings('.release-price').text();
+                  let price = prizzle.replace(/ /g, '')
+                  jordanShoe['price'] = price;
+                  jordanShoes.push(jordanShoe)
+                }
+              }
+            }
+      })
+      console.log(jordanShoes);
+      fs.writeFile('jordans.json', JSON.stringify(jordanShoes, null, 4), function(err) {
+        console.log('File successfully written! - Check your project directory for the output.json file!');
+      })
+    }
+    res.send("you scraped the jordan site!!!!");
+  })
+
+
+  res.send("yo did it")
 })
+
 
 app.get('/', function(req, res) {
   res.json({
     message: "hello you are not going crazy"
+  })
+})
+
+app.get('/output.json', (req, res) => {
+  res.json({
+    data: json
+  })
+})
+
+app.get('jordans.json', (req, res) => {
+  res.json({
+    data: jordanShoes
   })
 })
 

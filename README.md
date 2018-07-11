@@ -29,6 +29,15 @@
   - talk about other options
   - maintaining new daily data to hosted API
 
+### TODAYS OBJECTIVES 7/11/2018
+
+[x] Scrape Jordan endpoint
+[x] store data in a new File
+[X] build endpoint for that File
+[] host on firebase/deploy API
+[] Front-End bring in new API data (Jordans)
+
+
   extra extra...
 
   [] - looking into meta properties for SEO: can give pointers to
