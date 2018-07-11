@@ -1,8 +1,8 @@
 # Web Scraper build - Twitch live code
 
-## A scraper for shoe release dates
+## A scraper for Yeezy release dates
 
-### Build checklist
+### checklist
 
 [X] basic setup (dependencies, libraries, etc)
   - Express
@@ -20,7 +20,7 @@
 [X] fully scrape the page for what we want
   - structure a loop to scan the page
   - identify/store our data
-[] host the data (an API)
+[X] host the data (an API)
   - export JSON output
   - host on firebase
   - access from firebase to confirm
@@ -34,4 +34,4 @@
   [] - looking into meta properties for SEO: can give pointers to
         what is what on the page
   [] - parsers for each site?
-  [] -
+  [] - WEBCRAWLING?!?!?!
