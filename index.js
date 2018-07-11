@@ -7,6 +7,8 @@ var app = express();
 
 var json = {};
 
+app.use(cors);
+
 app.get('/scrape', function(req, res) {
   // console.log(req.query.name);
   console.log("HIYA");
