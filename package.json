@@ -1,0 +1,21 @@
+{
+  "name": "yeezy-release-scraper",
+  "version": "1.0.0",
+  "description": "Twitch live stream web scraper tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Michael Marlow",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.0"
+  }
+}
