@@ -33,9 +33,9 @@
 
 [x] Scrape Jordan endpoint
 [x] store data in a new File
-[X] build endpoint for that File
-[] host on firebase/deploy API
-[] Front-End bring in new API data (Jordans)
+[x] build endpoint for that File
+[x] host on firebase/deploy API
+[x] Front-End bring in new API data (Jordans)
 
 
   extra extra...
