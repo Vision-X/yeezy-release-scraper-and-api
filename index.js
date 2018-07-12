@@ -24,7 +24,6 @@ request(url, function(error, response, html) {
       if (elem.name === 'p' && $(this).siblings('div')) {
         if ($(this).children('img')) {
           var imgSrc = $(this).children('img').attr('src');
-          // console.log(imgSrc, "... imgSrc");
           shoeImgs.push(imgSrc);
         }
       }
