@@ -1,62 +1,62 @@
 {
     "0": {
-        "name": "Air Jordan 1 High Zip \"AWOK\"",
-        "relDate": "7.23",
-        "price": "$220",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/cbc70b82fcb191639071082c78dab8d1_1531432851.jpg"
-    },
-    "1": {
-        "name": "Air Jordan 1 High Zip \"AWOK\"",
-        "relDate": "7.23",
-        "price": "$220",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/8e36ab415c5f7dcb29adc5a2480e46bc_1531508039.jpg"
-    },
-    "2": {
-        "name": "Jordan Why Not Zer0.1",
-        "relDate": "7.25",
-        "price": "$125",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/72c0bc6c48d3032738be97b21ba4390d_1532360237.jpg"
-    },
-    "3": {
-        "name": "Air Jordan 13",
-        "relDate": "7.27",
-        "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/1c307eff1b4f0eb625f8a506ae52cf31_1532117986.jpg"
-    },
-    "4": {
         "name": "Jordan Future",
         "relDate": "7.28",
         "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/f0cb96fdd7d18f4f8a520d617a278df3_1440602782.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/dd7cc86ae890765df3b44378aefa96af_1532790953.jpg"
     },
-    "5": {
-        "name": "Air Jordan 10",
+    "1": {
+        "name": "Air Jordan 10 \"Light Smoke\"",
         "relDate": "7.28",
         "price": "$190",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/59d484bdc74db910ebe67c9c2f53ba0f_1530048820.jpg"
     },
-    "6": {
+    "2": {
         "name": "Air Jordan 12",
         "relDate": "8.04",
         "price": "$190",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/e6aafda0cb7c9e020ab33e2e114ccffd_1531176738.jpg"
     },
-    "7": {
+    "3": {
         "name": "Air Jordan 12 \"Back To School\"",
         "relDate": "8.11",
         "price": "$190",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/4951eaaf14001ecbaa6e73b4dd2b5542_1529701942.jpg"
     },
-    "8": {
+    "4": {
         "name": "Legacy 312",
         "relDate": "8.11",
         "price": "$160",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/fb231346655e43a3d44663bd4b65e4c8_1529962145.jpg"
     },
-    "9": {
+    "5": {
         "name": "Legacy 312",
         "relDate": "8.11",
         "price": "$160",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/e4d819176166ed0d06f7e59e964ff44c_1529962050.jpg"
+    },
+    "6": {
+        "name": "Legacy 312",
+        "relDate": "8.11",
+        "price": "$160",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/eb129e295fa61057dad8e87cb7e14397_1529961750.jpg"
+    },
+    "7": {
+        "name": "Air Jordan 3 Flyknit",
+        "relDate": "8.18",
+        "price": "$220",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/f5ed890f56e8cc1968a5d67fac7cfd70_1516945017.jpg"
+    },
+    "8": {
+        "name": "Air Jordan 4 \"Raptors\"",
+        "relDate": "8.18",
+        "price": "$190",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/048bfa1cd5242b5a3553b94e2fe54fd1_1525105629.jpg"
+    },
+    "9": {
+        "name": "Air Jordan 13 \"He Got Game\"",
+        "relDate": "8.25",
+        "price": "$190",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/3fb401a3a46f13b3e973087c45558006_1530646591.jpg"
     }
 }
