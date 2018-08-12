@@ -1,62 +1,62 @@
 {
     "0": {
-        "name": "Air Jordan 13 \"He Got Game\"",
-        "relDate": "8.04",
-        "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/10d830f38a27917fb37129384ad72a73_1532968695.jpg"
-    },
-    "1": {
-        "name": "Air Jordan 5 \"International Flight\"",
-        "relDate": "8.04",
-        "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/c5d0c386bb0c7f3b9cb9f25231a249fe_1533226097.jpg"
-    },
-    "2": {
-        "name": "Air Jordan 12 Light Aqua",
-        "relDate": "8.04",
-        "price": "$140",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/ac089b52c7bd842f6a9f6c9a3454d8ff_1533329893.jpg"
-    },
-    "3": {
-        "name": "Jordan Why Not Zer0.1 Low",
-        "relDate": "8.07",
-        "price": "$115",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/83eee08652d54c4973f1402a0e2ded8b_1533249901.jpg"
-    },
-    "4": {
-        "name": "Air Jordan 1 High Zip",
-        "relDate": "8.09",
-        "price": "$150",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/264bc8a932caa0e82ba6c727f4d65d99_1533246144.jpg"
-    },
-    "5": {
-        "name": "Air Jordan 1 High Zip",
-        "relDate": "8.09",
-        "price": "$150",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/4c9f04f816444103265302fc4669c758_1533246335.jpg"
-    },
-    "6": {
         "name": "Air Jordan 12 \"Back To School\"",
         "relDate": "8.11",
         "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/4951eaaf14001ecbaa6e73b4dd2b5542_1529701942.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/ea6592106b735c71dc6affbd5a816f7a_1533575188.jpg"
+    },
+    "1": {
+        "name": "Legacy 312 \"Command Force\"",
+        "relDate": "8.11",
+        "price": "$160",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/2d2b9402985e3b5efa756d502f28b130_1533663551.jpg"
+    },
+    "2": {
+        "name": "Legacy 312 \"Medicine Ball\"",
+        "relDate": "8.11",
+        "price": "$160",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/4e932de043ee7a390daf05407d629547_1533663475.jpg"
+    },
+    "3": {
+        "name": "Legacy 312 \"Hot Lava\"",
+        "relDate": "8.11",
+        "price": "$160",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/5a0d67eb718ca941b750771032374686_1533663355.jpg"
+    },
+    "4": {
+        "name": "Air Jordan 3 Flyknit",
+        "relDate": "8.15",
+        "price": "$200",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/424526b380351071faca4a8105a9b7bd_1533830912.jpg"
+    },
+    "5": {
+        "name": "Air Jordan 4 \"Raptors\"",
+        "relDate": "8.18",
+        "price": "$190",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/048bfa1cd5242b5a3553b94e2fe54fd1_1525105629.jpg"
+    },
+    "6": {
+        "name": "Nigel Sylvester x Air Jordan 1",
+        "relDate": "8.22",
+        "price": "$160",
+        "imgUrl": "https://sneakernews.com/wp-content/themes/sneakernews/images/sneaker_default.jpg"
     },
     "7": {
-        "name": "Legacy 312",
-        "relDate": "8.11",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/fb231346655e43a3d44663bd4b65e4c8_1529962145.jpg"
+        "name": "Air Jordan 3 \"JTH\"",
+        "relDate": "8.28",
+        "price": "$200",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/835ad0e1e8835c9d1abd318cc9e379db_1531256944.jpg"
     },
     "8": {
-        "name": "Legacy 312",
-        "relDate": "8.11",
+        "name": "Air Jordan 1 \"Swoosh\"",
+        "relDate": "9.01",
         "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/e4d819176166ed0d06f7e59e964ff44c_1529962050.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/49acdf2c0999ba77eb8d964200342df8_1529700520.jpg"
     },
     "9": {
-        "name": "Legacy 312",
-        "relDate": "8.11",
+        "name": "Air Jordan 1 \"Swoosh\"",
+        "relDate": "9.01",
         "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/eb129e295fa61057dad8e87cb7e14397_1529961750.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/1359f3da3916c50929b21ef7b9e7b0d1_1529700603.jpg"
     }
 }
