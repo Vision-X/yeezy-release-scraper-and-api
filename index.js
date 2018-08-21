@@ -123,6 +123,18 @@ app.get('/', function(req, res) {
   })
 })
 
+app.get('/showJSON', (req, res) => {
+  var content;
+  fs.readFile('./output.json', 'utf8', function read(err, data) {
+    if (err) { throw err }
+    content = JSON.parse(data);
+    // console.log(content);
+    res.json({
+      data: content
+    })
+  })
+})
+
 app.get('/output.json', (req, res) => {
   res.json({
     data: json
