@@ -1,62 +1,62 @@
 {
     "0": {
-        "name": "Air Jordan 5 \"International Flight\"",
-        "relDate": "8.25",
-        "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/c5d0c386bb0c7f3b9cb9f25231a249fe_1533226097.jpg"
+        "name": "Vogue x Air Jordan 3 \"AWOK\"",
+        "relDate": "9.07",
+        "price": "$220",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/658deb69d155355d6d3fd8c9f3f17bc5_1535488870.jpg"
     },
     "1": {
-        "name": "Air Jordan 3 \"JTH\"",
-        "relDate": "8.28",
-        "price": "$200",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/835ad0e1e8835c9d1abd318cc9e379db_1531256944.jpg"
+        "name": "Vogue x Air Jordan 3 \"AWOK\"",
+        "relDate": "9.07",
+        "price": "$220",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/3ad0963671b1ca3ccb23e69e61da8d27_1536077917.jpg"
     },
     "2": {
-        "name": "Air Jordan 1 \"Swoosh\"",
-        "relDate": "9.01",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/49acdf2c0999ba77eb8d964200342df8_1529700520.jpg"
-    },
-    "3": {
-        "name": "Air Jordan 1 \"Swoosh\"",
-        "relDate": "9.01",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/1359f3da3916c50929b21ef7b9e7b0d1_1529700603.jpg"
-    },
-    "4": {
-        "name": "Air Jordan 1 \"Swoosh\"",
-        "relDate": "9.01",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/dff8cb2e91c1445bf4f3ca29751d99c1_1529700685.jpg"
-    },
-    "5": {
-        "name": "Nigel Sylvester x Air Jordan 1",
-        "relDate": "9.01",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/9bfb0880550b09182437631208052c7c_1534189968.jpg"
-    },
-    "6": {
         "name": "Air Jordan 12 \"International Flight\"",
         "relDate": "9.08",
         "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/9b884f08d45ceeffcc455f22179e778f_1529701894.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/d8c78ee8b7f3ff613660af444359ca97_1536089432.jpg"
     },
-    "7": {
+    "3": {
         "name": "Air Jordan 12 \"Rush Pink\"",
         "relDate": "9.08",
         "price": "$140",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/dc749ede8f001548724b65e165bee203_1534270393.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/78f552e32e74ba00d76873cd19500da5_1536337063.jpg"
     },
-    "8": {
+    "4": {
         "name": "Air Jordan 13 \"Back To School\"",
         "relDate": "9.15",
         "price": "$190",
         "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/1db4480e723f4d011a8a1457d498e3b3_1530646552.jpg"
     },
+    "5": {
+        "name": "Air Jordan 18",
+        "relDate": "9.15",
+        "price": "$N/A",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/13eeddfd8b034de828235c86f5b08c5a_1536090289.jpg"
+    },
+    "6": {
+        "name": "Air Jordan 18",
+        "relDate": "9.15",
+        "price": "$N/A",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/7df5e7239c36930ae5724ed0c468a70b_1536090353.jpg"
+    },
+    "7": {
+        "name": "Air Jordan 18",
+        "relDate": "9.15",
+        "price": "$N/A",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/b1f4fc6c9086b1826fd1ee2be4b5a222_1536090405.jpg"
+    },
+    "8": {
+        "name": "Air Jordan 20 Flyknit",
+        "relDate": "9.17",
+        "price": "$250",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/900ebc5cc1471c408745ed9d3b62e488_1536089460.jpg"
+    },
     "9": {
-        "name": "Air Jordan 3 \"Bordeaux\"",
-        "relDate": "9.21",
-        "price": "$180",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/44757c9e37985c97adc7d2e41f0460e2_1529954731.jpg"
+        "name": "Air Jordan 20 Flyknit",
+        "relDate": "9.17",
+        "price": "$250",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/61deaebc908ff2fb24cd0931f7f01c75_1536089544.jpg"
     }
 }

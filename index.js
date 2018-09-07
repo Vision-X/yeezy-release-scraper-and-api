@@ -128,7 +128,6 @@ app.get('/showJSON', (req, res) => {
   fs.readFile('./output.json', 'utf8', function read(err, data) {
     if (err) { throw err }
     content = JSON.parse(data);
-    // console.log(content);
     res.json({
       data: content
     })
