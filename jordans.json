@@ -1,62 +1,62 @@
 {
     "0": {
-        "name": "Air Jordan 5 \"PSG\"",
-        "relDate": "9.14",
-        "price": "$225",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/22ed8c75798dc5a02e33b5a286624353_1535142084.jpg"
+        "name": "Air Jordan 6 \"Tinker\"",
+        "relDate": "0.06",
+        "price": "$190",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/0c54776608d4d5fdbd30332d97b0d499_1538071367.jpg"
     },
     "1": {
-        "name": "Air Jordan 13 \"Back To School\"",
-        "relDate": "9.15",
-        "price": "$190",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/e29f6ccf07155f02d6fdb37387a0adb5_1536594928.jpg"
+        "name": "Air Jordan 18",
+        "relDate": "0.11",
+        "price": "$225",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/bf702822059afef07b45510c52d4e183_1538582810.jpg"
     },
     "2": {
-        "name": "Air Jordan 18",
-        "relDate": "9.15",
-        "price": "$225",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/6ddf852031d22259e11d46257595ee91_1536603594.jpg"
+        "name": "Air Jordan 8",
+        "relDate": "0.13",
+        "price": "$190",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/84bff14f09f4a3505a2f5765bfd87c90_1537992273.jpg"
     },
     "3": {
-        "name": "Air Jordan 18",
-        "relDate": "9.15",
+        "name": "Air Jordan 9 Boot \"Beef And Broccoli\"",
+        "relDate": "0.13",
         "price": "$225",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/415cc9786c0e656e04e1131ce6d68403_1536603719.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/99568a6e615c6c55e6baab40af69d469_1536964106.jpg"
     },
     "4": {
-        "name": "Air Jordan 18",
-        "relDate": "9.15",
+        "name": "Air Jordan 9 Boot \"NRG\"",
+        "relDate": "0.13",
         "price": "$225",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/18ad47dc332544ea4fad12e4f434e7be_1536603825.jpg"
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/75eaec36b88e6f8c39ec9122ce8dbb93_1537904060.jpg"
     },
     "5": {
-        "name": "Air Jordan 20 Flyknit",
-        "relDate": "9.17",
-        "price": "$250",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/900ebc5cc1471c408745ed9d3b62e488_1536089460.jpg"
+        "name": "Air Jordan 9 Boot",
+        "relDate": "0.13",
+        "price": "$225",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/ac16704043c9ad81ff7252e49aa0b185_1537904174.jpg"
     },
     "6": {
-        "name": "Air Jordan 20 Flyknit",
-        "relDate": "9.17",
-        "price": "$250",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/61deaebc908ff2fb24cd0931f7f01c75_1536089544.jpg"
+        "name": "Air Jordan 33 \"Future Flight\"",
+        "relDate": "0.18",
+        "price": "$175",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/99776a86e02b31bb2700155e31fa5d26_1538065013.jpg"
     },
     "7": {
-        "name": "Air Jordan 3 \"Bordeaux\"",
-        "relDate": "9.21",
-        "price": "$180",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/44757c9e37985c97adc7d2e41f0460e2_1529954731.jpg"
+        "name": "Air Jordan 33",
+        "relDate": "0.18",
+        "price": "$N/A",
+        "imgUrl": "https://sneakernews.com/wp-content/themes/sneakernews/images/sneaker_default.jpg"
     },
     "8": {
-        "name": "Air Jordan 1 \"Pine Green\"",
-        "relDate": "9.22",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/1af9359993e19777f5d2f1b57bf10bfc_1536777265.jpg"
+        "name": "Air Jordan 10 \"Tinker\"",
+        "relDate": "0.20",
+        "price": "$190",
+        "imgUrl": "https://sneakernews.com/wp-content/themes/sneakernews/images/sneaker_default.jpg"
     },
     "9": {
-        "name": "Air Jordan 1 \"Court Purple\"",
-        "relDate": "9.22",
-        "price": "$160",
-        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/50400115e5df6bf06323c977f4eb35ca_1536777230.jpg"
+        "name": "Air Jordan 11 \"Platinum Tint\"",
+        "relDate": "0.27",
+        "price": "$220",
+        "imgUrl": "https://s3.amazonaws.com/images.kicksfinder.com/products/thumbs/a70573660db1ce4d9b14af58f9a2c068_1538625423.jpg"
     }
 }
