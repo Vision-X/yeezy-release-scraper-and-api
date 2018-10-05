@@ -81,7 +81,7 @@ request(url, function(error, response, html) {
               // jordanShoe['imgUrl'] = imgUrl;
               if ($(this).children().hasClass('content-box')) {
                 let releaseDate = $(this).children('.content-box').children().children('.release-date').text();
-                let relDate = releaseDate.replace(/ /g, '').slice(2);
+                let relDate = releaseDate.replace(/ /g, '').slice(1);
                 // jordanShoe['relDate'] = relDate;
                 if ($(this).children('.content-box').children('h2')) {
                   let jName = $(this).children('.content-box').children('h2').children().eq(0).text();
